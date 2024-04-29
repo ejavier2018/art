@@ -1,0 +1,9 @@
+# Site settings
+title: A Personal Site
+author:
+  name: Edward Javier
+  email: 
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/cayman
