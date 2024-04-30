@@ -3,7 +3,7 @@ title: A Personal Site
 author:
   name: Edward Javier
   email: 
-description: "Great site about Jekyll on GH-Pages."
+description: "A Personal Website"
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
